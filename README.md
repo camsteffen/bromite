@@ -10,6 +10,8 @@ Bromite is only available for Android Lollipop (v5.0, API level 21) and above.
 
 <img src="https://fdroid.bromite.org/fdroid/bromite_bromite_gh_downloads.svg" alt="Downloads on Github" title="Downloads on Github" />
 
+Download from [Releases](https://github.com/bromite/bromite/releases) or use the [F-Droid Repository](https://www.bromite.org/fdroid).
+
 For the Frequently Asked Questions see [F.A.Q.](./FAQ.md).
 
 For documentation see the [wiki](https://github.com/bromite/bromite/wiki).
